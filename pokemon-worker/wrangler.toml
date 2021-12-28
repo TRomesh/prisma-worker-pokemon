@@ -1,0 +1,9 @@
+name = "pokemon-worker"
+type = "javascript"
+webpack_config = "webpack.config.js"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-28"
